@@ -4,8 +4,8 @@ This project performs exploratory and analytical processing on the NYC Yellow Ta
 
 ## 📁 Dataset
 
-**Source**: [NYC Taxi & Limousine Commission](https://www.kaggle.com/datasets/gauravpathak1789/yellow-tripdata-2020-01) 
-**File Used**: [yellow_tripdata_2020-01.csv](https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2020-01.csv)  
+**Source**: [Kaggle](https://www.kaggle.com/datasets)
+**File Used**: [yellow_tripdata_2020-01.csv](https://www.kaggle.com/datasets/gauravpathak1789/yellow-tripdata-2020-01)  
 **Format**: CSV (~7M records)
 
 ## 🔧 Tools & Environment
